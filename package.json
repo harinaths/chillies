@@ -1,0 +1,25 @@
+{
+  "name": "chillies",
+  "version": "0.0.2",
+  "description": "SocketIO Adaptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harinaths/chillies.git"
+  },
+  "keywords": [
+    "socket.io",
+    "socketio",
+    "adaptor",
+    "utils"
+  ],
+  "author": "Harinath Subramani <harinathsubramani@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harinaths/chillies/issues"
+  },
+  "homepage": "https://github.com/harinaths/chillies"
+}
